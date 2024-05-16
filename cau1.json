@@ -1,0 +1,47 @@
+[
+  {
+    "SupplierID": 11,
+    "SupplierName": "Công ty A",
+    "AccountName": "congtya",
+    "EmailAddress": "contact@congtya.com",
+    "Password": "password123",
+    "Tel": "0123456789",
+    "Location": "Hà Nội"
+  },
+  {
+    "SupplierID": 12,
+    "SupplierName": "Công ty B",
+    "AccountName": "congtyb",
+    "EmailAddress": "contact@congtyb.com",
+    "Password": "password456",
+    "Tel": "0987654321",
+    "Location": "Hồ Chí Minh"
+  },
+  {
+    "SupplierID": 13,
+    "SupplierName": "Công ty C",
+    "AccountName": "congtyc",
+    "EmailAddress": "contact@congtyc.com",
+    "Password": "pass789",
+    "Tel": "011223344",
+    "Location": "Đà Nẵng"
+  },
+  {
+    "SupplierID": 14,
+    "SupplierName": "Công ty D",
+    "AccountName": "congtyd",
+    "EmailAddress": "contact@congtyd.com",
+    "Password": "dpass123",
+    "Tel": "022334455",
+    "Location": "Cần Thơ"
+  },
+  {
+    "SupplierID": 15,
+    "SupplierName": "Công ty E",
+    "AccountName": "congtye",
+    "EmailAddress": "contact@congtye.com",
+    "Password": "epass456",
+    "Tel": "033445566",
+    "Location": "Nha Trang"
+  }
+]
